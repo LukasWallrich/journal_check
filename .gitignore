@@ -1,0 +1,25 @@
+# Environment variables (contains API keys)
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+
+# Data files (can be regenerated)
+data/raw/
+data/processed/
+data/output/
+
+# Keep input data
+!data/input/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
