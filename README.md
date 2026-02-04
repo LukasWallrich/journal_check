@@ -1,5 +1,8 @@
 # Psychology Journal Pilot/Feasibility Study Guidelines Analysis
 
+> [!WARNING]
+> **Experimental Code** — This project explores the feasibility of automating journal guidelines analysis. The pipeline and outputs are under active development and **should not be trusted for research or decision-making purposes**. Results may contain errors from web scraping failures, LLM hallucinations, or incomplete data extraction.
+
 Automated analysis of author guidelines from top psychology journals to determine whether they mention pilot studies, feasibility studies, or related concepts.
 
 ## Key Finding
